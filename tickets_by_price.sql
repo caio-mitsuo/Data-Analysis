@@ -77,3 +77,5 @@ A query realiza os seguintes passos:
 ## 📬 Contato
 
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. 😊
+
+mudança de teste
